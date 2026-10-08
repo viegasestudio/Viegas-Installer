@@ -44,6 +44,6 @@ Descárgalo en la sección **Releases**, aquí a la derecha.
 - 🌐 Web: [viegasestudio.com](https://viegasestudio.com/)
 
 **Creado por Diego Viegas** · [YouTube](https://www.youtube.com/@viegasestudio) · [Instagram](https://www.instagram.com/viegasestudio)
-En colaboración con **Casilokodesing** · [YouTube](https://www.youtube.com/@disaniproy) · [Instagram](https://www.instagram.com/disanipro)
+En colaboración con **Casilokodesing** · [YouTube](https://www.youtube.com/@disanipro) · [Instagram](https://www.instagram.com/disanipro)
 
 © Viegas Academy. Todos los derechos reservados.
