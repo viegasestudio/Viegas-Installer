@@ -1,5 +1,11 @@
 # Viegas Installer
 
+<img width="1139" height="739" alt="image" src="https://github.com/user-attachments/assets/af371f3b-16b8-4503-bd1c-2ed2e6924069" />
+
+
+
+
+
 **El instalador de extensiones de Viegas Academy.** Instala tus plugins para After Effects, Premiere Pro, Photoshop, Illustrator y más, sin complicaciones.
 
 ## ¿Qué hace?
